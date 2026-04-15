@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jail/static/css/main.e6c13ad2.css",
+    "main.js": "/Jail/static/js/main.cce41f40.js",
+    "static/js/453.aec6885d.chunk.js": "/Jail/static/js/453.aec6885d.chunk.js",
+    "index.html": "/Jail/index.html",
+    "main.e6c13ad2.css.map": "/Jail/static/css/main.e6c13ad2.css.map",
+    "main.cce41f40.js.map": "/Jail/static/js/main.cce41f40.js.map",
+    "453.aec6885d.chunk.js.map": "/Jail/static/js/453.aec6885d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cce41f40.js"
+  ]
+}
